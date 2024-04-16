@@ -7,6 +7,12 @@
 #### CSCI 4350
 #### Fall 2023, East Tennessee State University
 
+### Updated by Team GUI-Gooey
+### Members:
+> Adam Haun, Shauhardha Kshatri, Wunmi Odukoya, Daniel Tucker, Patrick Vergason
+#### CSCI 4927 - Human Computer Interaction
+#### Spring 2024, East Tennessee State University
+
 ### Overview:
 This is a microservice that returns game info in JSON format to the [BOBBY Project](https://github.com/chrisseals98/BOBBY).
 
